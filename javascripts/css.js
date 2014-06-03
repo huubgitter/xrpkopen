@@ -7,5 +7,9 @@
         window.open("https://www.bitstamp.net/");
         return false;
       });
+      $('#justcoin').click(function(){ 
+        window.open("https://www.justcoin.com/");
+        return false;
+      });
       });
     
